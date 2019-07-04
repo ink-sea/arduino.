@@ -47,33 +47,33 @@ int main()
   {
     switch(str[i])
     {
-      case 'a':dot;dash;defer;
-      case 'b':dash;dot;dot;defer;
-      case 'c':dash;dot;dot;dot;defer;
-      case 'd':dash;dot;dot;defer;
-      case 'e':dot;defer;
-      case 'f':dot,dot,dash,dot,defer;
-      case 'g':dash;dash;dot;defer;
-      case 'h':dot;dot;dot;dot;defer;
-      case 'i':dot;dot;defer;
-      case 'j':dot;dash;dash;dash;defer;
-      case 'k':dash;dot;dash;defer;
-      case 'l':dot;dash;dot;dot;defer;
-      case 'm':dash;dash;defer;
-      case 'n':dash;dash;defer;
-      case 'o':dash;dash;dash;defer;
-      case 'p':dot;dash;dash;dot;defer;
-      case 'q':dash;dash;dot;dash;defer;
-      case 'r':dot;dash;dot;defer;
-      case 's':dot;dot;dot;defer;
-      case 't':dash;defer;
-      case 'u':dot;dot;dash;defer;
-      case 'v':dot;dot;dot;dash;defer;
-      case 'w':dot;dash;dash;defer;
-      case 'x':dash;dot;dot;dash;defer;
-      case 'y':dash;dot;dash;dash;defer;
-      case 'z':dash;dash;dot;dot;defer;
-      case 32:space;
+      case 'a':dot;dash;defer;break;
+      case 'b':dash;dot;dot;defer;break;
+      case 'c':dash;dot;dot;dot;defer;break;
+      case 'd':dash;dot;dot;defer;break;
+      case 'e':dot;defer;break;
+      case 'f':dot,dot,dash,dot,defer;break;
+      case 'g':dash;dash;dot;defer;break;
+      case 'h':dot;dot;dot;dot;defer;break;
+      case 'i':dot;dot;defer;break;
+      case 'j':dot;dash;dash;dash;defer;break;
+      case 'k':dash;dot;dash;defer;break;
+      case 'l':dot;dash;dot;dot;defer;break;
+      case 'm':dash;dash;defer;break;
+      case 'n':dash;dash;defer;break;
+      case 'o':dash;dash;dash;defer;break;
+      case 'p':dot;dash;dash;dot;defer;break;
+      case 'q':dash;dash;dot;dash;defer;break;
+      case 'r':dot;dash;dot;defer;break;
+      case 's':dot;dot;dot;defer;break;
+      case 't':dash;defer;break;
+      case 'u':dot;dot;dash;defer;break;
+      case 'v':dot;dot;dot;dash;defer;break;
+      case 'w':dot;dash;dash;defer;break;
+      case 'x':dash;dot;dot;dash;defer;break;
+      case 'y':dash;dot;dash;dash;defer;break;
+      case 'z':dash;dash;dot;dot;defer;break;
+      case 32:space;break;
     }
   }
 
